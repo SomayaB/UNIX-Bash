@@ -59,10 +59,10 @@ Indulge your curiousity and explore the questions that pique your interest.
 - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 #### Command Line
-- [ ] 20 exercises are completed from the ["Learn Enough Command Line to be Dangerous"][hartl-command-line] book.
-- [ ] Solution code for each exercise is included in its own bash file (`*.sh`).
-- [ ] Solution code for exercises are stored in a `command-line/` directory of your artifact repo.
-- [ ] Solution code for each exercise includes a comment with the prompt text for the exercise.
+- [x] 20 exercises are completed from the ["Learn Enough Command Line to be Dangerous"][hartl-command-line] book.
+- [x] Solution code for each exercise is included in its own bash file (`*.sh`).
+- [x] Solution code for exercises are stored in a `command-line/` directory of your artifact repo.
+- [x] Solution code for each exercise includes a comment with the prompt text for the exercise.
 
 #### Bash Scripting
 - [ ] 20 activities are completed from the [Bash Scripting][ryans-tutorial-bash-scripting] tutorials.
