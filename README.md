@@ -65,10 +65,10 @@ Indulge your curiousity and explore the questions that pique your interest.
 - [x] Solution code for each exercise includes a comment with the prompt text for the exercise.
 
 #### Bash Scripting
-- [ ] 20 activities are completed from the [Bash Scripting][ryans-tutorial-bash-scripting] tutorials.
-- [ ] Solution code for each activity is included in its own bash file (`*.sh`). **Tip**: for the bash-scripting tutorials, check your solutions by executing your bash (.sh) files (type their name in the terminal), instead of writing code directly in the terminal.
-- [ ] Solution code for activities are stored in a `bash-scripting/` directory of your artifact repo.
-- [ ] Solution code for each activity includes a comment with the prompt text for the activity.
+- [x] 20 activities are completed from the [Bash Scripting][ryans-tutorial-bash-scripting] tutorials.
+- [x] Solution code for each activity is included in its own bash file (`*.sh`). **Tip**: for the bash-scripting tutorials, check your solutions by executing your bash (.sh) files (type their name in the terminal), instead of writing code directly in the terminal.
+- [x] Solution code for activities are stored in a `bash-scripting/` directory of your artifact repo.
+- [x] Solution code for each activity includes a comment with the prompt text for the activity.
 
 ### Stretch
 
