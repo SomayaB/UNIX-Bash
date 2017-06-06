@@ -53,9 +53,9 @@ Indulge your curiousity and explore the questions that pique your interest.
 
 #### General
 - [x] Artifact is a GitHub repo.
-- [ ] Cheat sheet of your favorite useful commands and a brief explanation of what they do is included in the artifact as a `cheat-sheet.md` file.
-- [ ] All major features are added via pull requests with a clear description and concise commit messages.
-- [ ] Variables, functions, files, etc. have appropriate and meaningful names.
+- [x] Cheat sheet of your favorite useful commands and a brief explanation of what they do is included in the artifact as a `cheat-sheet.md` file.
+- [x] All major features are added via pull requests with a clear description and concise commit messages.
+- [x] Variables, functions, files, etc. have appropriate and meaningful names.
 - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 #### Command Line
